@@ -1,2 +1,2 @@
-# OAM
-Operations, administration and management sources
+# EOL
+Element(Equipment) Operation Management libraries GIT repository...
